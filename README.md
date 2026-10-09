@@ -22,7 +22,7 @@ Repositorio abierto del Proyecto de Innovación Educativa **PINNE 2026** de la U
 
 ## 👥 Equipo 
 
-| **Jaione Etxeberria (IP), Aritz Adin, Lola Ugarte, Tomás Goicoa, Guzmán Santafé, Carlos Echegoyen, Camelia Trandafir, Garazi Retegui y Yacelli Bustamante.** 
+ **Jaione Etxeberria (IP), Aritz Adin, Lola Ugarte, Tomás Goicoa, Guzmán Santafé, Carlos Echegoyen, Camelia Trandafir, Garazi Retegui y Yacelli Bustamante.** 
 
 ### Centros participantes
 
