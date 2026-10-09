@@ -1,4 +1,4 @@
-# PINNE 2026 · Modernización de la enseñanza de la Estadística en la UPNA
+# PINNE 2026 · Modernización de la enseñanza de la Estadística en la UPNA (En construcción)
 
 ### Hacia un aprendizaje reproducible, activo y apoyado en IA
 Repositorio abierto del Proyecto de Innovación Educativa **PINNE 2026** de la Universidad Pública de Navarra. Reúne los recursos, guías y agentes de IA con los que transformamos la enseñanza de la Estadística mediante **RStudio** y **agentes de IA que actúan exclusivamente como tutores de programación**.
