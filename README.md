@@ -8,7 +8,7 @@ Repositorio abierto del Proyecto de Innovación Educativa **PINNE 2026** de la U
 | Recurso | Descripción |
 |---------|-------------|
 | 📚 **Micro-cápsulas y guías** | RStudio, RMarkdown y Quarto, en tres idiomas |
-| 🤖 **3 agentes de IA tutores** | Uno por área: ADE-Economía, Ingenierías y Ciencia de Datos |
+| 🤖 **Agentes de IA tutores** | Uno por área: ADE-Economía, Ingenierías y Ciencia de Datos |
 | 💬 **Guía de *prompts*** | Multilingüe, para la creación y depuración de código estadístico |
 
 ## 🎓 Asignaturas y titulaciones
