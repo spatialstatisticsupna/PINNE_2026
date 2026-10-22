@@ -57,6 +57,9 @@ Recursos educativos en abierto. *(Pendiente de decidir; propuesta: **CC BY 4.0**
 > Etxeberria, J., Adin, A., Bustamante, Y., Echegoyen, C., Goicoa, T., Retegui, G., Santafé, G., Trandafir, C. y Ugarte, M. D. (2026). *Modernización de la enseñanza de la Estadística en la UPNA: hacia un aprendizaje reproducible, activo y apoyado en IA* (PINNE 2026). Universidad Pública de Navarra.
 
 ---
+<p align="center">
+  <img src="assets/logo-upna.jpg" alt="Logo de la Universidad Pública de Navarra" width="250">
+</p>
 
 <p align="center"><em>Universidad Pública de Navarra · Convocatoria de Proyectos de Innovación Educativa PINNE 2026</em></p>
 
