@@ -60,7 +60,6 @@ Recursos educativos en abierto. *(Pendiente de decidir; propuesta: **CC BY 4.0**
 <p align="center">
   <img src="assets/logo-upna.jpg" alt="Logo de la Universidad Pública de Navarra" width="250">
 </p>
-
 <p align="center"><em>Universidad Pública de Navarra · Convocatoria de Proyectos de Innovación Educativa PINNE 2026</em></p>
 
 
