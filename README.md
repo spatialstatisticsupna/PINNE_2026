@@ -53,8 +53,8 @@ También puedes escribir a **jaione.etxeberria@unavarra.es** y **aritz.adin@unav
 Recursos educativos en abierto. *(Pendiente de decidir; propuesta: **CC BY 4.0** para los materiales docentes y **MIT** para el código.)*
 
 ## 📚 Cómo citar
-
-> Etxeberria, J., Adin, A., Bustamante, Y., Echegoyen, C., Goicoa, T., Retegui, G., Santafé, G., Trandafir, C. y Ugarte, M. D. (2026). *Modernización de la enseñanza de la Estadística en la UPNA: hacia un aprendizaje reproducible, activo y apoyado en IA* (PINNE 2026). Universidad Pública de Navarra.
+ 
+> Etxeberria, J., Adin, A., Santafé, G., Bustamante, Y., Echegoyen, C., Goicoa, T., Retegui, G.,  Trandafir, C. y Ugarte, M. D. (2026). *Modernización de la enseñanza de la Estadística en la UPNA: hacia un aprendizaje reproducible, activo y apoyado en IA* (PINNE 2026). Universidad Pública de Navarra.
 
 ---
 <p align="center">
